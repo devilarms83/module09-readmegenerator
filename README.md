@@ -1,50 +1,57 @@
-# Github Readme Generator
+# Readme Generator
 
-  ![badge](https://img.shields.io/badge/license-MIT-blue)
+  ![badge](https://img.shields.io/badge/license-MIT-success)
   
   ## Description
   
-  To create a command-line app using Node.
+  This app was created to help users easily complete a readme for their applications. It was designed to make this step as painless as possible.
 
-  This app will make generating a Readme easier.
+  The application provides a great readme template that the user can initiate through the command line.
 
-  Node is a pain in the rear.
+  I learned that Node is a great tool for command-line applications.
   
   ## Table of Contents 
   
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#Contributing)
-  - [Tests](#Tests)
-  - [Questions](#Questions)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
   
   ## [Installation](#table-of-contents)
   
-  Git clone this repo and run locally.
+  To install the application, download the git repository to your directory of choice and run the application by following the instructions below.
   
   ## [Usage](#table-of-contents)
   
-  After cloning this repo, you will need to install inquirer(8.2.4) and colors.  
+  To start, type in "node index.js" in your terminal and answer the prompts. Once complete, there will be a file generated in the ./generated folder. Note, you will need to install the following: inquirer@8.2.4 and colors.
+
+  ![Terminal Image](./assets/img/term_img1.png)
+  
+  ![Sample Readme Generated](./assets/img/gen_img1.png)  
   
   ## [License](#table-of-contents)
 
   License Used:
   
-  [MIT](https://choosealicense.com/licenses/mit)    
+  [MIT](https://choosealicense.com/licenses/mit)
+    
 
   ## [Contributing](#table-of-contents)
   
-  If you'd like to contribute, please follow the [Contributor Covenant](https://www.contributor-covenant.org/) and provide issues on github.
+  If you'd like to contribute, please follow the [Contributor Covenant](https://www.contributor-covenant.org/).
+
+  Please contribute to the project by adding issues on the links above the repo.
 
   ## [Tests](#table-of-contents)
   
-  By testing each individual function.
+  I need help building tests for this application.
   
   ## [Questions](#table-of-contents)
   
   For additional questions, please reach out to:
 
-  [GitHub](https://github.com/devilarms83)
-  [Email: bautista.albert@gmail.com](mailto:bautista.albert@gmail.com)
+  [GitHub: devilarms83](https://github.com/devilarms83)
 
+  [Email: bautista.albert@gmail.com](mailto:bautista.albert@gmail.com)
