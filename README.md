@@ -27,9 +27,13 @@
   
   To start, type in "node index.js" in your terminal and answer the prompts. Once complete, there will be a file generated in the ./generated folder. Note, you will need to install the following: inquirer@8.2.4 and colors.
 
+    What the terminal should look like:
   ![Terminal Image](./assets/img/term_img1.png)
   
+    What the readme generated should look like:
   ![Sample Readme Generated](./assets/img/gen_img1.png)  
+
+Here's a link to a sample [video](https://drive.google.com/file/d/18Q0-aBVLVpEFiQI29cWv5Bn9HtDl7a6X/view?usp=sharing).
   
   ## [License](#table-of-contents)
 
