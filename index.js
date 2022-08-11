@@ -27,7 +27,7 @@ const questions = [
             if (what != ''){
                 return true;
             } else {
-                console.log('ERROR: BLANK ENTRY, RETRY!.underline.red')
+                console.log('ERROR: BLANK ENTRY, RETRY!'.underline.red)
                 return false;
             }
         }
@@ -40,7 +40,7 @@ const questions = [
             if (why != ''){
                 return true;
             } else {
-                console.log('ERROR: BLANK ENTRY, RETRY')
+                console.log('ERROR: BLANK ENTRY, RETRY!'.underline.red)
                 return false;
             }
         }
@@ -53,7 +53,7 @@ const questions = [
             if (how != ''){
                 return true;
             } else {
-                console.log('ERROR: BLANK ENTRY, RETRY')
+                console.log('ERROR: BLANK ENTRY, RETRY!'.underline.red)
                 return false;
             }
         }
@@ -66,7 +66,7 @@ const questions = [
             if (install != ''){
                 return true;
             } else {
-                console.log('ERROR: BLANK ENTRY, RETRY')
+                console.log('ERROR: BLANK ENTRY, RETRY!'.underline.red)
                 return false;
             }
         }
@@ -79,7 +79,7 @@ const questions = [
             if (usage != ''){
                 return true;
             } else {
-                console.log('ERROR: BLANK ENTRY, RETRY')
+                console.log('ERROR: BLANK ENTRY, RETRY!'.underline.red)
                 return false;
             }
         }
@@ -98,7 +98,7 @@ const questions = [
             if (contri != ''){
                 return true;
             } else {
-                console.log('ERROR: BLANK ENTRY, RETRY')
+                console.log('ERROR: BLANK ENTRY, RETRY!'.underline.red)
                 return false;
             }
         }
@@ -111,7 +111,7 @@ const questions = [
             if (tests != ''){
                 return true;
             } else {
-                console.log('ERROR: BLANK ENTRY, RETRY')
+                console.log('ERROR: BLANK ENTRY, RETRY!'.underline.red)
                 return false;
             }
         }
@@ -124,7 +124,7 @@ const questions = [
             if (gitUser != ''){
                 return true;
             } else {
-                console.log('ERROR: BLANK ENTRY, RETRY')
+                console.log('ERROR: BLANK ENTRY, RETRY!'.underline.red)
                 return false;
             }
         }
@@ -137,7 +137,7 @@ const questions = [
             if (email != ''){
                 return true;
             } else {
-                console.log('ERROR: BLANK ENTRY, RETRY')
+                console.log('ERROR: BLANK ENTRY, RETRY!'.underline.red)
                 return false;
             }
         }
