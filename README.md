@@ -59,7 +59,7 @@ THEN I am taken to the corresponding section of the README
     What the readme generated should look like:
   ![Sample Readme Generated](./assets/img/gen_img1.png)  
 
-Here's a link to a sample [video](https://drive.google.com/file/d/18Q0-aBVLVpEFiQI29cWv5Bn9HtDl7a6X/view?usp=sharing).
+Here's a link to a sample [video](https://drive.google.com/file/d/1aDqa6DtqauIsMzpA7RfwSbH8wHED39jZ/view?usp=sharing).
   
   ## [License](#table-of-contents)
 
